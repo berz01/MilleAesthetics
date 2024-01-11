@@ -30,7 +30,7 @@
 </filter>
 <linearGradient id="paint0_linear_943_38090" x1="448" y1="0" x2="448" y2="256" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9B050F"/>
-<stop offset="1" stop-color="#5BD1D7"/>
+<stop offset="1" stop-color="#eac300"/>
 </linearGradient>
 <clipPath id="clip0_943_38090">
 <path d="M-154.387 -797.516H741.613V1897.11C741.613 1901.53 738.031 1905.11 733.613 1905.11H-146.387C-150.805 1905.11 -154.387 1901.53 -154.387 1897.11V-797.516Z" fill="white"/>

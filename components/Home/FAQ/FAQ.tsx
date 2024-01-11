@@ -52,23 +52,23 @@ const FAQ = () => {
   const faqs = [
     /* 
 
-The Millie Aesthetics obesity telemedicine program is powered by the Care360™ platform by CareValidate Inc. Care360™ is a patient management platform that collaborates with independent physicians and practitioners providing services through the SOC2 and HIPAA Compliant Care360 platform. CareValidate Inc. does not directly offer medical or pharmacy services, and payment does not guarantee the prescription writing or dispensing process. Medical services are facilitated by independent providers and Patel Group PC. The information presented on this website is for informational purposes only and should not be considered a substitute for professional medical advice, diagnosis, or treatment. If you have questions or concerns about your health, please consult with your doctor.”
+The Mille Aesthetics obesity telemedicine program is powered by the Care360™ platform by CareValidate Inc. Care360™ is a patient management platform that collaborates with independent physicians and practitioners providing services through the SOC2 and HIPAA Compliant Care360 platform. CareValidate Inc. does not directly offer medical or pharmacy services, and payment does not guarantee the prescription writing or dispensing process. Medical services are facilitated by independent providers and Patel Group PC. The information presented on this website is for informational purposes only and should not be considered a substitute for professional medical advice, diagnosis, or treatment. If you have questions or concerns about your health, please consult with your doctor.”
 
 
 */
 
     {
       title: "Platform Information",
-      des: "The Millie Aesthetics obesity telemedicine program is powered by the CareGLP™ platform by CareValidate Inc. CareGLP™ is a patient management platform that collaborates with independent physicians and practitioners providing services through the SOC2 and HIPAA Compliant Care360 platform. CareValidate Inc. does not directly offer medical or pharmacy services, and payment does not guarantee the prescription writing or dispensing process. Medical services are facilitated by independent providers and Patel Group PC. The information presented on this website is for informational purposes only and should not be considered a substitute for professional medical advice, diagnosis, or treatment. If you have questions or concerns about your health, please consult with your doctor.",
+      des: "The Mille Aesthetics obesity telemedicine program is powered by the CareGLP™ platform by CareValidate Inc. CareGLP™ is a patient management platform that collaborates with independent physicians and practitioners providing services through the SOC2 and HIPAA Compliant Care360 platform. CareValidate Inc. does not directly offer medical or pharmacy services, and payment does not guarantee the prescription writing or dispensing process. Medical services are facilitated by independent providers and Patel Group PC. The information presented on this website is for informational purposes only and should not be considered a substitute for professional medical advice, diagnosis, or treatment. If you have questions or concerns about your health, please consult with your doctor.",
     },
     {
-      title: "How does Millie Aesthetics's Weight loss program work?",
+      title: "How does Mille Aesthetics's Weight loss program work?",
       des:
-        "Millie Aesthetics is designed to be more than a telehealth platform, but still simple for our clients. You can start treatment in three easy-steps.\n" +
+        "Mille Aesthetics is designed to be more than a telehealth platform, but still simple for our clients. You can start treatment in three easy-steps.\n" +
         " 1) Complete our elgibility quiz and have our providers may request lab work done to verify a medical need for treatment.\n" +
         " 2) Speak to your new healthcare provider through a telehealth appointment.\n" +
         " 3) If medically appropriate, receive your medication in the mail every 30-days, or 60-days, or 90-days from our mail order pharmacy provider (depending on your provider’s decision).\n" +
-        " We want to enable you to form a long-term connection with your provider so that they can provide ongoing care for your specific condition. With that in mind, The Millie Aesthetics weight loss program is designed for patients seeking long-term care.",
+        " We want to enable you to form a long-term connection with your provider so that they can provide ongoing care for your specific condition. With that in mind, The Mille Aesthetics weight loss program is designed for patients seeking long-term care.",
     },
     {
       title: "Is this confidential?",
@@ -76,12 +76,12 @@ The Millie Aesthetics obesity telemedicine program is powered by the Care360™ 
     },
     {
       title: "Do I need a prescription?",
-      des: "If you're eligible for treatment, our medical team will issue you a private prescription. You don't need an existing prescription to use the Millie Aesthetics Weight loss program!",
+      des: "If you're eligible for treatment, our medical team will issue you a private prescription. You don't need an existing prescription to use the Mille Aesthetics Weight loss program!",
     },
     {
-      title: "How much is Millie Aesthetics's Weight loss program?",
+      title: "How much is Mille Aesthetics's Weight loss program?",
       des:
-        "Millie Aesthetics's Weight loss program will create a customized prescription plan. Guided by doctors you will receive a personalized plan, medication, and support.\n" +
+        "Mille Aesthetics's Weight loss program will create a customized prescription plan. Guided by doctors you will receive a personalized plan, medication, and support.\n" +
         "The cost is $297 for the 1st month, which includes Medical Telehealth Consultation, Prescription, 1-Month of Segmaglutide Medication, and Shipping",
     },
     {
@@ -113,7 +113,7 @@ The Millie Aesthetics obesity telemedicine program is powered by the Care360™ 
     },
   ];
 
-  // high yellow - #5BD1D7
+  // high yellow - #eac300
   // mid - #fedc80
   // light-white yellow - #fff8e6
 
@@ -121,7 +121,7 @@ The Millie Aesthetics obesity telemedicine program is powered by the Care360™ 
     <div
       style={{
         background:
-          "linear-gradient(180deg, #5BD1D7 0%, #4E7DA0 50%, #4E7DA0 100%)",
+          "linear-gradient(180deg, #eac300 0%, #ded9c0 50%, #ded9c0 100%)",
       }}
       className="lg:pt-[96px] pt-[70px] lg:pb-[160px] pb-[70px] rounded shadow-2xl -mt-[3px]"
     >
@@ -142,7 +142,7 @@ The Millie Aesthetics obesity telemedicine program is powered by the Care360™ 
               href="https://care360.typeform.com/to/fAJ0gYLG"
               target="_blank"
             >
-              <button className="w-full bg-[#5BD1D7] rounded-lg py-3 flex items-center gap-2 justify-center">
+              <button className="w-full bg-[#eac300] rounded-lg py-3 flex items-center gap-2 justify-center">
                 <span className="text-white text-lg">See if I qualify</span>
                 <Image
                   width={28}

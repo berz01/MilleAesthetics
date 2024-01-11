@@ -4,7 +4,7 @@ const Medications = () => {
   return (
     <div className="lg:mt-[300px] mt-[670px]">
       <div>
-        <h3 className="text-center text-2xl px-5 font-semibold text-[#5BD1D7] lg:w-[448px] mx-auto">
+        <h3 className="text-center text-2xl px-5 font-semibold text-[#eac300] lg:w-[448px] mx-auto">
           Real Medications. Doctors that care. Delivered to your doorstep.
         </h3>
       </div>
@@ -18,10 +18,10 @@ const Medications = () => {
           />
           <p className="lg:text-3xl text-2xl font-medium text-[#404040] lg:w-[430px]">
             We aim to deliver{" "}
-            <span className="text-[#5BD1D7]">premium telemedicine support</span>{" "}
+            <span className="text-[#eac300]">premium telemedicine support</span>{" "}
             tailored to your unique health conditions. With our team of highly
             trained clinicians, we ensure that the most potent treatments are{" "}
-            <span className="text-[#5BD1D7]">always within your reach.</span>
+            <span className="text-[#eac300]">always within your reach.</span>
           </p>
         </div>
       </div>
