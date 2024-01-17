@@ -25,7 +25,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href="https://care360.typeform.com/to/fAJ0gYLG"
+                    href="https://carevalidate.jotform.com/240098066578971"
                     target="_blank"
                     className="lg:text-sm text-[#404040] text-xs"
                   >

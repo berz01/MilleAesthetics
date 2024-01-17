@@ -139,7 +139,7 @@ The Mille Aesthetics obesity telemedicine program is powered by the Care360™ p
           </div>
           <div className="lg:mt-20 mt-10">
             <Link
-              href="https://care360.typeform.com/to/fAJ0gYLG"
+              href="https://carevalidate.jotform.com/240098066578971"
               target="_blank"
             >
               <button className="w-full bg-[#eac300] rounded-lg py-3 flex items-center gap-2 justify-center">
