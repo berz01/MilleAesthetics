@@ -82,7 +82,7 @@ The Mille Aesthetics obesity telemedicine program is powered by the Care360™ p
       title: "How much is Mille Aesthetics's Weight loss program?",
       des:
         "Mille Aesthetics's Weight loss program will create a customized prescription plan. Guided by doctors you will receive a personalized plan, medication, and support.\n" +
-        "The cost is $297 for the 1st month, which includes Medical Telehealth Consultation, Prescription, 1-Month of Segmaglutide Medication, and Shipping",
+        "The cost is $395 for the 1st month, which includes Medical Telehealth Consultation, Prescription, 1-Month of Segmaglutide Medication, and Shipping",
     },
     {
       title: "Safety Information",
