@@ -124,18 +124,18 @@ const Footer = () => {
 
         <div className="flex flex-col justify-between lg:pt-5 pb-10 sm:flex-row">
           <p className="lg:text-sm text-xs text-[#737373]">
-            © 2023 Mille Aesthetics, Inc. All rights reserved.
+            © 2024 CareValidate, All rights reserved.
           </p>
           <div className="flex items-center lg:mt-4 mt-2 lg:space-x-4 space-x-2 sm:mt-0">
             <Link
               className="text-[#5B21B6] lg:mx-1 underline lg:text-sm text-xs"
-              href="https://www.MilleAesthetics.com/terms-of-services"
+              href="https://support.careglp.com/support/solutions/articles/73000625396-terms-conditions"
             >
               Terms & Conditions.
             </Link>
             <Link
               className="text-[#5B21B6] lg:mx-1 underline lg:text-sm text-xs"
-              href="https://www.MilleAesthetics.com/privacy"
+              href="https://support.careglp.com/support/solutions/articles/73000625394-privacy-policy"
             >
               Privacy Policy.
             </Link>
