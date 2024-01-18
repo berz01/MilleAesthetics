@@ -12,7 +12,7 @@ const Header = () => {
     <>
       <li>
         <a
-          href="https://Mille Aesthetics.com/"
+          href="https://MilleAesthetics.com/"
           className="font-medium uppercase text-[##404040] text-lg"
         >
           About Us
